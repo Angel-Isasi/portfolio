@@ -25,5 +25,6 @@ export const projects: Project[] = [
     tech: ["HTML", "CSS", "JavaScript"],
     demoUrl: "https://word-masters-beta.vercel.app",
     repoUrl: "https://github.com/Angel-Isasi/word-masters",
+    image: "/projects/word-masters.png",
   },
 ];
